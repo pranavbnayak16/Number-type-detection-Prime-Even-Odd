@@ -1,0 +1,1 @@
+# Number-type-detection-Prime-Even-Odd
